@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Foobar"
+date:   2015-12-04
+categories: iot business-case
+---
+
+
+Bla, bla, bla:
+
+* eins
+* zwo
+* drei
